@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'A short description of RNContainer.'
   s.description      = <<-DESC
+                       A short description of RNContainer.
                        DESC
 
   s.homepage         = 'https://github.com/iossocket/RNContainer'
